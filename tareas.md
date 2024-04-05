@@ -1,0 +1,5 @@
+- [x] Crear archivos
+- [x] Vincular html con css y js
+- [x] Crear plantilla HTML
+- [] Crear el "estado" de las tareas
+- [] Resetear los estilos de CSS
